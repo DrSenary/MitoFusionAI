@@ -138,21 +138,18 @@ All random seeds are fixed at 42 for full reproducibility.
 - **External validation**: Spearman ρ against measured IC₅₀ and selectivity ratio
 - **FDA filtering**: 5-stage cascade (AD → novelty → cationic exclusion → probability → CNS permeability)
 
-## Citation
 
-If you use this code or data, please cite:
-
-```
-Senary, A.M. & Soliman, A.M. MitoFusionAI: A Machine Learning Framework for Predicting 
-Mitochondrial Disruption and Prioritizing FDA-Approved Drug Repurposing Candidates. 
-Department of Pharmaceutical Chemistry, The British University in Egypt.
 ```
 
 ## License
 
 This project is intended for academic research purposes.
 
+Contributors
+A.M. Senary 
+A.M. Soliman — Co-author, Department of Pharmaceutical Chemistry, The British University in Egypt
+
 ## Contact
 
 - A.M. Senary — [ahmedsenary235@gmail.com](mailto:ahmedsenary235@gmail.com)
-- Department of Pharmaceutical Chemistry, Faculty of Pharmacy, The British University in Egypt, El-Sherouk City, Cairo 11837, Egypt
+Department of Pharmaceutical Chemistry, Faculty of Pharmacy, The British University in Egypt, El-Sherouk City, Cairo 11837, Egypt
