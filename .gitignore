@@ -1,0 +1,22 @@
+# Data files (too large for git)
+*.csv
+*.sdf
+*.pkl
+*.npy
+
+# Model files
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output figures (regenerate from scripts)
+*.png
+*.pdf

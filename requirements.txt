@@ -1,0 +1,10 @@
+rdkit>=2023.09.5
+xgboost>=2.0
+scikit-learn>=1.4
+optuna>=3.5
+shap>=0.44
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+joblib
