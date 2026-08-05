@@ -147,9 +147,6 @@ This project is intended for academic research purposes.
 
 Contributors
 A.M. Senary 
-A.M. Soliman — Co-author, Department of Pharmaceutical Chemistry, The British University in Egypt
+A.M. Soliman
+— Department of Pharmaceutical Chemistry, The British University in Egypt
 
-## Contact
-
-- A.M. Senary — [ahmedsenary235@gmail.com](mailto:ahmedsenary235@gmail.com)
-Department of Pharmaceutical Chemistry, Faculty of Pharmacy, The British University in Egypt, El-Sherouk City, Cairo 11837, Egypt
