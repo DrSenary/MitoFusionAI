@@ -1,6 +1,5 @@
 """
 MitoFusionAI Pipeline — 01 Data Cleaning And Curation
-Source notebook: cleaning_data_UPDATED.ipynb
 """
 
 # =====================================================================
@@ -14,13 +13,7 @@ from rdkit.Chem.Scaffolds import MurckoScaffold
 # ------------------------------------------------------------------
 # 1. Pharmacophore dictionary
 # ------------------------------------------------------------------
-# NOTE: The Ortho_/Meta_/Para_ halogen entries below do NOT actually
-# encode relative substituent position. A SMARTS pattern needs two
-# anchored substituents on the ring to define "ortho"/"meta"/"para" —
-# as written, each of these currently just flags "a halogen exists
-# somewhere on an aromatic ring," regardless of position. Left as-is
-# here since it wasn't the primary ask this round; flag if you want
-# these rewritten as genuine positional patterns.
+
 PHARMACOPHORE_SMARTS = {
     # Heterocycles
     'Piperazine_Ring': 'C1CNCCN1',
