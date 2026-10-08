@@ -2,7 +2,7 @@
 
 This directory contains a stratified sample of the MitoFusionAI training dataset, released to support reproducibility of the manuscript:
 
-> Senary AM, Soliman AM. *Machine learning prediction of mitochondrial disruptors from yeast phenotypic screening for repurposing of FDA approved drugs.* Discover Chemistry (2026).
+> Senary AM, Soliman AM. *Machine learning prediction of mitochondrial disruptors from yeast phenotypic screening for FDA approved drug repurposing using MitoFusionAI.* Discover Chemistry (2026).
 
 ## Files
 
